@@ -22,7 +22,7 @@ dependencies:
   - brotlipy=0.7.0=py312h66e93f0_1007
   - bzip2=1.0.8=h5eee18b_6
   - c-ares=1.19.1=h5eee18b_0
-  - ca-certificates=2024.12.31=h06a4308_0
+  - ca-certificates=2025.2.25=h06a4308_0
   - certifi=2025.1.31=py312h06a4308_0
   - cffi=1.17.1=py312h1fdaa30_1
   - charset-normalizer=3.3.2=pyhd3eb1b0_0
@@ -36,6 +36,7 @@ dependencies:
   - decorator=5.1.1=pyhd3eb1b0_0
   - defusedxml=0.7.1=pyhd3eb1b0_0
   - entrypoints=0.4=py312h06a4308_0
+  - et_xmlfile=1.1.0=py312h06a4308_1
   - exceptiongroup=1.2.0=py312h06a4308_0
   - executing=0.8.3=pyhd3eb1b0_0
   - expat=2.6.4=h6a678d5_0
@@ -48,8 +49,6 @@ dependencies:
   - gst-plugins-base=1.14.1=h6a678d5_1
   - gstreamer=1.14.1=h5eee18b_1
   - h11=0.14.0=py312h06a4308_0
-  - h5py=3.12.1=py312h5842655_1
-  - hdf5=1.14.5=h2b7332f_2
   - httpcore=1.0.2=py312h06a4308_0
   - httpx=0.27.0=py312h06a4308_0
   - icu=73.1=h6a678d5_0
@@ -153,6 +152,7 @@ dependencies:
   - olefile=0.46=pyhd3eb1b0_0
   - openjpeg=2.5.2=he7f1fd0_0
   - openldap=2.6.4=h42fbc30_0
+  - openpyxl=3.1.5=py312h5eee18b_1
   - openssl=3.4.1=h7b32b05_0
   - overrides=7.4.0=py312h06a4308_0
   - packaging=24.2=py312h06a4308_0
