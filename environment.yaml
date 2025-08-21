@@ -22,8 +22,8 @@ dependencies:
   - brotlipy=0.7.0=py312h66e93f0_1007
   - bzip2=1.0.8=h5eee18b_6
   - c-ares=1.19.1=h5eee18b_0
-  - ca-certificates=2025.2.25=h06a4308_0
-  - certifi=2025.1.31=py312h06a4308_0
+  - ca-certificates=2025.7.15=h06a4308_0
+  - certifi=2025.8.3=py312h06a4308_0
   - cffi=1.17.1=py312h1fdaa30_1
   - charset-normalizer=3.3.2=pyhd3eb1b0_0
   - comm=0.2.1=py312h06a4308_0
@@ -205,6 +205,7 @@ dependencies:
   - rfc3986-validator=0.1.1=py312h06a4308_0
   - rpds-py=0.22.3=py312h4aa5aa6_0
   - scipy=1.15.1=py312h2809609_0
+  - seaborn=0.13.2=py312h06a4308_3
   - send2trash=1.8.2=py312h06a4308_1
   - setuptools=72.1.0=py312h06a4308_0
   - sip=6.7.12=py312h6a678d5_1
